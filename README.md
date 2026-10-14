@@ -8,4 +8,5 @@ You can also contribute, or suggest if i miss any state-city, i am going to upda
 
 Thankyou.
 
-Last Updated : 24 Sep 2025
+First Updated : 24 Sep 2025
+Last Updated  : 14 Oct 2026
